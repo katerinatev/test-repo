@@ -6,5 +6,8 @@ c = a + b
 
 print(c)
 
-if c > 1000:
-    print("c is greater")
+if c < 1000:
+    print("c is less")
+
+if a > 1000:
+    print('c for sure greater')
